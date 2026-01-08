@@ -1,19 +1,9 @@
-### [Foobar](https://foobar.com)
+### [Rackula](https://count.racku.la)
 
-#### Install using Git
+Rackula uses the Dracula color palette natively - no separate theme installation is required.
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+#### Install
 
-```bash
-git clone https://github.com/dracula/foobar.git
-```
-
-#### Install manually
-
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/main.zip) option and unzip them.
-
-#### Activating theme
-
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+1. Visit [count.racku.la](https://count.racku.la) or download from [GitHub Releases](https://github.com/RackulaLives/Rackula/releases)
+2. Install the application
+3. Dracula theme is applied automatically
